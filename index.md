@@ -1,3 +1,9 @@
+### Outline
+
+- [pre-requests](http://nbviewer.jupyter.org/github/jshuang0520/tutor_python_project/blob/master/notebooks/pre-requests.ipynb)
+
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jshuang0520/tutor_python_project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
