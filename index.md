@@ -1,7 +1,7 @@
 ### Outline
 
 - [pre-requests](http://nbviewer.jupyter.org/github/jshuang0520/tutor_python_project/blob/master/notebooks/pre-requests.ipynb)
-- [ch1-2 pandas dataframe](https://jshuang0520.github.io/tutor_python_project/notebooks/ch1-2_basic_data_struc_transformation.slides.html)
+- [ch1-2 pandas dataframe](https://jshuang0520.github.io/tutor_python_project/ch1-2-dataframe.slides.html)
 
 ---
 
