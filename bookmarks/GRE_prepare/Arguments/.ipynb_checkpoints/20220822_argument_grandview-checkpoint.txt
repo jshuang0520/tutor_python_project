@@ -1,0 +1,61 @@
+
+
+https://www.testbig.com/gmatgre-argument-task-essays/many-years-city-grandview-has-provided-annual-funding-grandview-8
+
+Essay topics:
+"For many years the city of Grandview has provided annual funding for the Grandview Symphony. Last year, however, private contributions to the symphony increased by 200 percent and attendance at the symphony's concerts-in-the-park series doubled. The symphony has also announced an increase in ticket prices for next year. Given such developments, some city commissioners argue that the symphony can now be fully self-supporting, and they recommend that funding for the symphony be eliminated from next year's budget."
+
+Write a response in which you discuss what questions would need to be answered in order to decide whether the recommendation and the argument on which it is based are reasonable. Be sure to explain how the answers to these questions would help to evaluate the recommendation.
+
+
+
+
+10:14 start ~ [10:55] end
+
+看題目 10:14 - 10:16
+--
+question 題
+
+想點 10:16 - 10:22
+
+1. 200 percent -> 基數？ 統計學觀點
+
+
+2. private contributions increased by 200 percent -> 他因：表面上增加很多捐款，實際上是交響樂團成員私人贊助，因為快經營不下去
+supporting idea: 因為 attendance at concerts-in-the-park series doubled -> 代表免費演出，預算當然大增
+
+
+3. an increase in ticket prices for next year -> 增加多少？觀眾變多變少有受到票價調整衝擊嗎？真的能自己經營下去？
+-> 可以做問卷調查觀眾買單意願
+
+--
+
+(10:22 - 10:33)
+The memo claims that the symphony can now be fully self-supporting, so they recommend that funding for the symphony be eliminated from next year's budget. However, there are some questions need to be answered.
+(36 words)
+
+
+(10:22 - 10:33)
+The memo claims that compared to last year, private contributions to the symphony increased by 200 percent. However, is it tantamount to a large amount of money? Probably not. For example, if the private contribution to the symphony was merely 100 dollars last year, a new record low in the history, being donated 200 dollars this year is still a small amount of money, and this meager donation will not make the symphony to be fully self-supporting.
+(75 words)
+
+
+(10:33 - 10:46)
+Still, if the private contributions to the symphony this year is a large amount of money, for example, 10,000, does it mean the symphony can be self-supporting? For example, the author also claims that the attendance at the symphony's concerts-in-the-park series doubled. It represents that the symphony's expenses grows quickly: They do perform concerts to audiences, but concerts-in-the-park series means they don't get any money back because the tickets are free. So maybe the fact is that the symphony is running out of money due to these unaffordable expenses, and some of the members are willing to donate to this symphony to help them to be able to keep performing.
+(119 words)
+
+
+(10:46 - 10:54)
+Moreover, the author also claims that there will be an increase in ticket prices for next year. Will the profit increase high enough to let the symphony be self-supporting? For example, when the ticket prices increase, it is likely that people will think it costs too much to just for having fun on a weekend. So they will choose another concert or they just do some other activities. If number of people to join the concert decreases sharply, the revenue will also decreases dramatically, so is the profit. A survey must be carefully conducted to see if the increasing ticket price will make impact to the profit.
+(108 words)
+
+
+(10:54 - 10:55)
+The author should answer all the questions above to make the claims more convencing.
+(14 words)
+
+
+--
+
+total: 352 words
+time: 10:14 start ~ [10:55] end -> 41 mins

@@ -1,0 +1,27 @@
+
+The following appeared as a recommendation by a committee planning a ten-year budget for the city of Calatrava.
+
+"The birthrate in our city is declining: in fact, last year's birthrate was only one-half that of five years ago. Thus the number of students enrolled in our public schools will soon decrease dramatically, and we can safely reduce the funds budgeted for education during the next decade. At the same time, we can reduce funding for athletic playing fields and other recreational facilities. As a result, we will have sufficient money to fund city facilities and programs used primarily by adults, since we can expect the adult population of the city to increase."
+
+Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+
+-------------------------------
+
+生育率 下降 是五年前的一半，因此 註冊本的學生會急遽變少
+在未來十年 可以減少教育預算 同時減少 運動和娛樂設施
+就有足夠的錢 去蓋給成人用的城市設施 因為期待這個城市成人的人口數會上升
+
+
+攻擊點
+
+他因可比性 - 現在生育率低不代表未來幾年也會低 e.g. 政策改變 影響生育率
+他因 - 城市的學校都是名校 所以註冊率不會變低
+教育支出跟其他支出的 基數 佔比
+
+
+-------------------------------
+
+The argument claims that by reducing the funds budgeted for education during the next decade, the city will have suffcient monty to fund city facilities and programs used primarily by adults. However, there are some of the questions need to be answered.
+
+

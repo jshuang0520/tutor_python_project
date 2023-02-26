@@ -1,0 +1,65 @@
+Universities should require every student to take a variety of courses outside the students' field of study.
+看題目 10:11 - 10:12
+
+
+
+想點 10:12 - 10:25
+
+錢
+時間
+健康
+
+
+先想立場：要支持這段話，還是不支持，選一邊站
+- if 站到支持那邊
+- if 站到不支持那邊
+
+
+[選一邊站：支持]
+
+- 
+論點中心：技術
+支持 1. 支持的好處：現在趨勢就是要結合多個領域的技能 e.g. 工程師 不只要會寫程式，還需要有良好溝通技巧 才可以做好產品
+反對 1. 不支持的壞處：如果晉升管理階級 卻不會個領域基礎知識 就面臨挑戰 e.g. 如果是工程師團隊的 leader，如果不懂得情緒管理，面臨衝突時就跟人起衝突 對公司對部門都是傷害
+
+
+論點中心：合作機會 眼界更開闊
+支持 2. 擁有跨領域知識 就會有更多工作機會 e.g. 身為一個資料工程師，如果除了會寫程式清理資料，還懂電動車 電池領域 就更有機會去 Tesla Gogoro 工作，如果熟悉音樂領域，就更有機會跟知名歌手Eminem合作，透過大數據尋求新機會
+反對 2. 
+
+--
+
+
+(10:25 - 10:29)
+Taking a variety of courses outside the students' field of study seems to be an unstoppable trend. If we learn more, we will have more skills, and we will have more opportunities to cooperate with others. Thus, in my opinion, I agree with this statement.
+(45 words)
+
+
+(10:29 - 10:40)
+If a student takes a variety of courses outside his field of study, he will learn more skills in different fields, and this can be helpful to his job career. For example, as a student majors in computer science, if he also learns communication skills, it will be helpful for him to communicate with others, and there is a better chance to build a more satisfying product due to his communication skills.
+(72 words)
+
+
+(10:40 - 10:44)
+However, if a student is not willing to spend time to take courses outside his field of study, he will face some challenges once he is promoted as a manager in the future. For example, as a leader of a data science team, if you only know about how to program but don't know how to mild your bad temper if you argue with other people, especially with your team members. Chances are you will be not suitable enough to be a better manager, and the chance to get promoted next time may not be yours.
+(97 words)
+
+
+(10:44 - 10:52)
+On the other hand, if a student learn more in different fields, it is likely that people in different fields are more apt to cooperate with you. For example, if a student who majors in computer science also learns physics and chemistry, he is more likely to be hired to Tesla or Gogoro to be their data engineer, because he knows not only to program, but also knows about how the batteries work, and what problem will the batteries have. Moreover, if he also gets familiar with the music field, there is a better chance for him to be hired to Spofify, or he can cooperate with famous singers like Eminem, to seek new inpiration through big data.
+(118 words)
+
+
+(10:52 - 10:52)
+To sum up, the above mentioned is why I personally agree with the statement.
+(14 words)
+
+
+--
+45+72+97+118+14
+= 346 words
+
+in 41 mins
+
+10:11 start ~ 10:52 end
+

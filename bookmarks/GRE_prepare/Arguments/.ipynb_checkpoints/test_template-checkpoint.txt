@@ -1,0 +1,21 @@
+test template
+
+The author claims that 
+However, the author should 
+ [question] answer the following questions
+ [evidence] provide more evidence 
+ [assumption] provide further information
+ [alternative explanation] rule out the alternative explanations
+to make his argement more convincing.
+
+
+The memo claims that
+However, 
+ [question] ...?
+ [evidence] It is possible that 
+ [assumption] The assumption ... is unfounded. / It is possible that ...
+ [alternative explanation] It is possible that ...
+ 
+ 
+The author should ...
+to make his argument more convincing.

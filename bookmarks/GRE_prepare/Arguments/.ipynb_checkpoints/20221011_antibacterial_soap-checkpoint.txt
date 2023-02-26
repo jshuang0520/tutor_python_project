@@ -1,0 +1,106 @@
+
+https://gre.myprepclub.com/forum/please-review-my-argument-essay-15091.html
+
+
+The following appeared in a memo from the director of a large group of hospitals.
+
+"In a laboratory study of liquid antibacterial hand soaps, a concentrated solution of UltraClean produced a 40 percent greater reduction in the bacteria population than did the liquid hand soaps currently used in our hospitals. During a subsequent test of UltraClean at our hospital in Workby, that hospital reported significantly fewer cases of patient infection than did any of the other hospitals in our group. Therefore, to prevent serious patient infections, we should supply UltraClean at all hand-washing stations throughout our hospital system."
+
+Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+
+
+看題目 10:59 - 11:01 - 11:17 (整理題目線索)
+--
+question / evidence / assumption / alternative explanation 題
+
+
+整理題目線索
+
+
+想點 11:01 - 11:17 (只想到兩點)
+
+# ------------------
+#
+# 他因 可比性
+#
+# ------------------
+1. 他因 可比性
+e.g. 地點 文化 溫度 雨量 環境 污染
+
+# ------------------
+#
+# 問卷 / 統計數字
+#
+# ------------------
+2. 基數
+e.g. 
+
+3. 樣本統計時間 一個月太少
+e.g. 如果有突發狀況，例如工業污染 造成水源細菌 髒 ，進而造成上個月 Wintervale 害蟲大幅降低，並不是 Buzzoff Pest Control Company 有用
+
+4. 樣本隨機性
+e.g. 抽附近好訪問的 抽願意回答的 有誘因才填問卷的 e.g.辦活動送贈品才受訪 -> 不隨機是否有偏誤
+
+5. lower price 有多低？實際數字？
+e.g. 如果 Fly-Away 比 Buzzoff 便宜 $100,000 in cost，那仍然要換掉他嗎？
+
+====================================
+
+
+--
+
+- laboratory study: a 40 percent greater reduction in the bacteria population
+那 real world situation?
+e.g. 環境 溫度 濕度 不同 導致其實沒有減少細菌量到40%這麼多
+
+
+- that hospital reported significantly fewer cases of patient infection than did any of the other hospitals in our group
+他因：不是肥皂造成的
+e.g. 是原本那家的設備比較新，空調設備也裝有過濾細菌的濾網 air filter，比較不容易感染
+e.g. 那家醫院地點比較遠，在鄉下，病患人數本來就比較少，感染數也相對比其他人數多的醫院少很多
+
+11:01 - 11:17 只想到兩點，先開始寫
+
+--
+
+
+(11:17  - 11:22 )
+The memo claims that to prevent serious patient infections, they should supply UltraClean at all hand-washing stations throughout their hospital system. However, several assmptions in the argument need to be addressed.
+(31 words)
+
+
+(11:22  - 11:34 )
+The author claims that the laboratory study shows by using a concentrated antibacterial hand soaps solution, there is a 40 percent greater reduction in the bacteria population. However, it is possible that there is merely a 5 percent reduction in the bacteria population when using it in the real world. For example, the lab can control some conditions like humidity, but the patients usually wash their hands in bathrooms, which are more humid than the lab. So the bacteria population can grow much more faster and also more abundant in the amount in the real world than in the lab.
+(100 words)
+
+
+(11:34  - 11:53 )
+The memo claims that in a subsequent test of UltraClean at their hospital in Workby, that hospital reported significantly fewer cases of patient infection than did any of the other hospitals in their group. However, the assumption that fewer cases of patient infection is due to this concentrated solution is unfounded. It can cause by other reasons. For example, if the air conditioning system there is newer and greater than other hospitals, and their air filters are also antibacterial, the environment can be cleaner and safer for the patients thus it is less likely to report infection cases there. Also, if the hospital is in a rural district where there are only 100 people in the small town, there can also be at most 100 infection cases to report, which leads to a significantly fewer cases of patient infection in the reports.
+(142 words)
+
+
+(10:  - 10: )
+
+( words)
+
+
+(11:53  - 11:54 )
+The author needs to address the above assumptions to make his argument more convincing.
+(14 words)
+
+
+--
+
+31+100+142+14 = 287 words
+in 56 mins (10:59 - 11:55)
+
+
+--
+reference
+
+https://gmatclub.com/forum/during-the-past-year-quiot-manufacturing-had-30-percent-more-on-the-391880.html
+
+https://www.testbig.com/gmatgre-argument-task-essays/according-recent-report-cheating-among-college-and-university-53
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/078.html

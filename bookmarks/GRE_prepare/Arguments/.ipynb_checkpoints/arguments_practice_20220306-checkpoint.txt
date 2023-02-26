@@ -1,0 +1,76 @@
+------------------------------------------------
+2022-03-06 Sun [practice]
+
+p.9 Mason GRE 作文高頻題
+
+The following is a recommendation from the personnel director to the 
+president of Acme Publishing Company.
+
+"Many other companies have recently stated that having their
+employees take the Easy Read Speed-Reading Course has greatly 
+improved productivity. One graduate of the course was able to
+read a 500-page report in only two hours; another graduate rose
+from an assistant manager to vice president of the company in
+under a year. Obviously, the faster you can read, the more
+information you can absorb in a single workday. Moreover, Easy
+Read would cost Acme only $500 per employee--a small price to pay
+when you consider the benefits. Included in this fee is a three-week
+seminar in Spruce City and a lifelong subscription to the Easy Read
+newsletter. Clearly, to improve productivity, Acme should require all of 
+our employees to take the Easy Read course."
+
+Write a response in which you discuss what questions would need to be answered in 
+order to decide whether the advice and the argumemnt on which it is based are
+reasonable. Be sure to explain how the answers to these questions would help to 
+evaluate the advice.
+------------------------------------------------
+
+points to attack(question):
+- 他因可比性：
+  row 4 - "many other" companies vs "Acme"
+  row 6~10 - the two students could be special cases?
+- 數字
+  row 7 - read a 500-page report in 2 hours
+  row 11 - cost $500 per employee (but not mentioned 投入成本，
+                                   e.g. 實體上課 3-week seminar in Spruce City 
+                                   上班時間上課->減少工作產出；下班時間上課，影響學生參與意願，成效不確定
+                                   也可攻擊可比性：人家過去上課交通方便但我們不方便？文章未提及呀！
+                                   也可以攻擊基數，公司員工30人？ 3000人？)
+- 時間
+  row 8~9 - rose to vice president in under a year （也可以攻擊 他因）
+- 以偏概全的形容詞
+  row 14 - should require "all" of our employees
+
+------------------------------------------------
+
+my response:
+
+The author suggests the company Acme should require all of their employees to take the Easy Read course
+because it truely benefits many other companies. However, we need more information to conclude whether 
+it is worthy or not for the company to do so.
+[44 words]
+
+First of all, the memo claims that "the faster you can read, the more information you can absorb in a single workday". 
+It sounds plausible but we need to notice our target is to evaluate if attending this course can really help to improve productivity, and "absorbing information" is totally different from "understanding information".
+To be more specifically, reading faster does not really mean making better decisions for your work business.
+Does the course provide lessons to teach techniques about critical thinking along with techniques to read faster?
+The author should provide more information about this.
+[96 words]
+
+Second, the memo also claims that one graduate of the course was able to read a 500-page report within two hours.
+However, it doesn't mention what kind of materials did the graduate have read. 
+What if there are lots of pictures but few words are included on pages?
+What if the contents are too easy to read so that most of the people can also finish reading it in two hours?
+Also, it doesn't mention whether the graduate fully understood the contents.
+We should have more information about the contents of the readings, and wheter a person fully understands it so this faster-reading technique can really help to improve our productivity.
+[111 words]
+
+According to the memo, Easy Read would cost Acme only a small price to pay, $500 per employee.
+To judge if it is a relatively small cost, we should consider it in various aspects.
+More specifically, what if other companies are small companies, like 30 employees, but there are 100 times greater number of employees for Acme? The cost could increase sharply due to this different base number of employees.
+Even if there are similar numbers of employees between these companies, we still need to consider the time costs. If the courses last a long time period and employees should take courses during working hours, is it really wise to suggest all of the employees to take courses? In contrast, if the employees should take courses during their free time like vacations, how can we make sure that most of them can fully attend courses to learn the techniques?
+What's more, if the company Acme is way far from Spruce City, where the seminars are held, do the employees in company Acme need to spend more traffic hours to get there so that to make them more exhausted to further impact their productivity?
+[193 words]
+
+The author should provide further evidence to answer the questions above to strengthen his claims.
+[15 words]

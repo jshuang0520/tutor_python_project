@@ -1,0 +1,33 @@
+# ====================================================
+# GRE useful resources
+# ====================================================
+
+GRE 330 in 20 days - Mihir Parulekar
+https://medium.com/@mihir19297/ace-gre-in-20-days-9bd4b5c1abb2
+
+GRE Math Quantitative Comparisons
+https://www.majortests.com/gre/quantitative_comparisons.php
+
+The Ultimate Guide to Destroy GRE Reading Comprehension
+https://crunchprep.com/gre-reading-comprehension-guide#five
+
+https://www.technologyreview.com/2022/10/01/1060539/eu-tech-policy-harmful-ai-liability/
+
+SCIENTIFIC AMERICAN
+https://www.scientificamerican.com/article/discoveries-about-ancient-human-evolution-win-2022-nobel-prize-in-physiology-or-medicine/
+
+張魏
+https://drive.google.com/file/d/17WxDH0uhEaPY2wTwrZDRE_ET7TmrvA_q/view
+https://drive.google.com/file/d/1Ld9205g5Si9MgHeO9-sX6a7MlgVFmV91/view
+https://drive.google.com/file/d/1OYicjOFNqtQIaTk4qWrjbO3dP7eqYzGH/view
+https://drive.google.com/file/d/10wLsP8TeD1fU-SoCf7fsTgTKxPrhT-Mx/view
+
+二戰讀書進度安排
+https://docs.google.com/spreadsheets/d/1j--aYdCMvdxVBNZM86JSv5pjOjJ_SZxaDWyYG6XAO-w/edit#gid=1784913581
+
+kmf
+https://gre.kmf.com/
+https://gre.kmf.com/practise/result/166496615265528764/4348
+
+my code to quiz GRE vocabs
+https://github.com/jshuang0520/quiz

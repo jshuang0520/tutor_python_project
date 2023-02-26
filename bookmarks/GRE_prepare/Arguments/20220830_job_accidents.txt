@@ -1,0 +1,98 @@
+
+https://gmatclub.com/forum/during-the-past-year-quiot-manufacturing-had-30-percent-more-on-the-391880.html
+
+Prompt:
+
+The following appeared in a memo from a vice president of Quiot Manufacturing.
+
+"During the past year, Quiot Manufacturing had 30 percent more on-the-job accidents than at the nearby Panoply Industries plant, where the work shifts are one hour shorter than ours. Experts say that significant contributing factors in many on-the-job accidents are fatigue and sleep deprivation among workers. Therefore, to reduce the number of on-the-job accidents at Quiot and thereby increase productivity, we should shorten each of our three work shifts by one hour so that employees will get adequate amounts of sleep."
+
+Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+
+
+看題目 10:44 - 10:47 - 10: (整理題目線索)
+--
+question / evidence / [assumption] / alternative explanation 題
+
+
+整理題目線索
+on-the-job accidents
+Quiot Manufacturing : Panoply Industries plant = 1.3 : 1
+
+Panoply work shifts are one hour shorter than Quiot
+
+Experts say main reason: fatigue and sleep deprivation
+
+
+
+想點 10:47 - 10:56
+
+# ------------------
+#
+# 他因 可比性
+#
+# ------------------
+1. 他因 可比性
+Quiot 的工作環境 比 Panoply 危險
+e.g. 工廠有大型機具操作 比較複雜 也更具危險性
+e.g. 工廠設備老舊 容易故障 更容易發生意外
+e.g. 工廠光線不良 太陽光被旁邊的山擋住 而室內燈光也不足
+
+# ------------------
+#
+# 問卷 / 統計數字
+#
+# ------------------
+2. 基數
+基數多還是少？
+e.g. 去年十起輕傷 今年增加三個輕傷 也不多
+
+3. 他因
+條件改變 傷病制度
+e.g. 以往受傷都不能休假休息，但去年可以休息一個禮拜的有薪假去養傷，員工當然輕傷也報
+
+====================================
+
+--
+
+
+(10:57 - 10:59)
+The memo claims that during last year, Quiot Manufacturing had 30 percent more on-the-job accidents than at the nearby Panoply Industries plant Industries plant, and the main cause can be a longer working hour. Nonetheless, the assumptions in the argument need supports.
+(43 words)
+
+
+(10:59 - 11:14)
+The author indicates that the Panoply Industries plant has a one hour shorter work shifts than Quiot Manufacturing, so their workers are not as fatigue as the workers in Quiot Manufacturing, and thus they have a lower rate of on-the-job accidents than Quiot Manufacturing last year. However, the assumption here may be incorrect. It is possible that the work place in Quiot Manufacturing is more dangerous than that in Panoply Industries plant. For example, there are more heavy machines that are dangerous and difficult to manipulate in the factory of Quiot Manufacturing. If workers don't follow the SOP very carefully, it is likely to cause accidents.Also, the machines in the factory of Quiot Manufacturing are probably older. Older machines without carefully maintenance can be very dangerous too, this can be another reason to lead to a higher rate of on-the-job accidents.
+(147 words)
+
+
+(11:14 - 10:)
+Furthermore, the author claims that there were 30 percent more on-the-job accidents in Quiot Manufacturing than in Panoply Industries plant. However, it is possible that there are some different criteria in their system. For example, if workers in Quiot Manufacturing can have one more week off with salary after they get injured last year, the workers there can report they get injury even if they just slip in the work place rather than their fingers being cut off by the machines.
+(82 words)
+
+
+(10: - 11:27)
+Also, if there were only 2 on-the-job accidents that are reported in Quiot Manufacturing and only 1 in Panoply Industries plant, it is likely that the reason lead to a more on-the-job accident rate is because of carelessness, not fatigue. Because in the perspective of statistics, the samples are too small to make such conclusion.
+(57 words)
+
+
+(11:27 - 11:29)
+The author should deal with the assumptions mentioned above to make his claims more convincing.
+(15 words)
+
+
+--
+
+43+147+82+57+15 = 344 words
+in 45 mins (10:44 - 11:29)
+
+
+--
+reference
+
+https://gmatclub.com/forum/during-the-past-year-quiot-manufacturing-had-30-percent-more-on-the-391880.html
+
+https://www.testbig.com/gmatgre-argument-task-essays/according-recent-report-cheating-among-college-and-university-53
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/078.html

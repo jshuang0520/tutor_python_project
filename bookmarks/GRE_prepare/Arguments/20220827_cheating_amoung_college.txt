@@ -1,0 +1,62 @@
+
+
+https://www.testbig.com/gmatgre-argument-task-essays/according-recent-report-cheating-among-college-and-university-53
+
+Essay topics:
+According to a recent report, cheating among college and university students is on the rise. However, Groveton College has successfully reduced student cheating by adopting an honor code, which calls for students to agree not to cheat in their academic endeavors and to notify a faculty member if they suspect that others have cheated. Groveton's honor code replaced a system in which teachers closely monitored students; under that system, teachers reported an average of thirty cases of cheating per year. In the first year the honor code was in place, students reported twenty-one cases of cheating; five years later, this figure had dropped to fourteen. Moreover, in a recent survey, a majority of Groveton students said that they would be less likely to cheat with an honor code in place than without. Thus, all colleges and universities should adopt honor codes similar to Groveton's in order to decrease cheating among students.
+
+
+Write a response in which you discuss what specific evidence is needed to evaluate the argument and explain how the evidence would weaken or strengthen the argument.
+
+
+
+
+看題目 19:03 - 19:05   # (看題目 11:12 - 10:16)
+--
+evidence 題
+
+想點 19:05 - 19:13
+
+1. successfully reduced student cheating by adopting an honor code
+-> 他因：同儕感情 排擠 才不報
+-> 他因：更改成榮譽制度之後是否有獎勵機制？有可能大家為了得到獎勵，故意不報
+
+2. survey 調查的基數？ 
+隨機抽樣？ 還是挑到感情好的班級 說好都不檢舉對方？
+
+
+3. 
+
+--
+
+
+(19:13 - 19:16)
+The memo claims that all colleges and universities should adop honor codes similar to Groveton's in order to decrease cheating amoung students since after Groveton College replaces this system, the cheating rate drops dramatically. However, the author should make the evidence to support this claim more clearly to make this claim more convincing.
+(54 words)
+
+
+(19:16 - 19:23)
+The author mentioned Groveton College successfully reduced students' cheating rate by adopting an honor code. However, the author provides no further information about whether the students are afraid of being bullied so they choose not to report the cheating events. For example, if a student report his friend cheating in an exam so that his friend failed to pass the test, it is likely that they will not be friends anymore. What's worse, the person who is caught cheating will pick on the guy reports a cheating event. To avoid this, students may choose to ignore if they find someone is cheating.
+(103 words)
+
+
+(19:23 - 19:27)
+Also, the author does not mention about whether there are incentives if no one cheats on the exams. For example, if nobody cheats on any test within a week, the school will provide free food and drinks to every student on next Friday. Guess most of the students will choose to ignore even if they find someone cheats on the tests.
+(61 words)
+
+
+(19:27 - 19:34)
+The author also claims that a recent survey points out a majority of Groveton students said that they would be less likely to cheat with an honor code in place than without. However, we need further proof about whether the survey is reliable. For example, if they don't choose students randomly, rather, they choose most of the students tend to lie to teachers, the result of the survey will be not convincing at all. Even if the samples are chosen randomly, the author should provide more information about how many samples are chosen in this survey. For example, in the statistical perspective, it will be meaningless if we choose only 2 students as the overall samples.
+(116 words)
+
+
+(19:34 - 19:35)
+To make the argument more convincing, the author should provide more information as above mentioned.
+(15 words)
+
+
+--
+
+54+103+61+116+15=349 words
+in 32 minutes (19:03 - 19:35)
+

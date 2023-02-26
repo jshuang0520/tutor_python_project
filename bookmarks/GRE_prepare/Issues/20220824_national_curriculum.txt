@@ -1,0 +1,95 @@
+A nation should require all of its students to study the same national curriculum until they enter college.
+
+
+10:41 start ~ [] end
+
+看題目 10:41 - 10:42
+
+
+--
+version 2
+
+想點 11:09 - 11:30
+
+- 先根據題目武斷詞做切割 all students + the same national curriculum -> 切割 students 切割 curriculum
+
+  - (切割 students)
+[切割是為了給配套措施] 切割法：多數人 少數人
+分 性別：男生，女生
+分 資質：特別聰明，資質普通
+分 知道自己方向：特別有興趣而且知道自己方向 
+分 領域：在台灣教育體系 主科以外的 比較不被重視的 音樂 體育 
+分 文化：原住民文化課 台語課
+
+  - (切割 curriculum)
+多數 核心課程 / 少數 專業精進課程
+
+
+
+- 優缺點
+  - 優點
+1. 節省成本，一堂課請一個老師大家一起聽講就好，不用讓老師去不同班講這麼多次一樣的課，增加學校支出
+2. 基礎知識 通識課大家一起上 節省成本 e.g. 衛生觀念
+3. 
+
+  - 缺點
+1. 專業知識會越來越難，不同背景的學生如果沒有基礎知識，根本聽不懂
+2. 如果太多時間上通識課，在學校就比較少時間去專精自己的領域，可能工作後要花更多時間自己去摸索
+3. 烘焙課 可能太專業 而且耗時，對於升學制度很重的台灣學生來說，大多會覺得沒必要
+
+
+--
+
+(11:20 - 12:01)
+I disagree the statement that a nation should require all of its students to study the same national curriculum until they enter college. It is beneficial to let most of the students to learn some core curriculum that everyone has to take, and the few talented students should be considered to learn some specialized, professional courses too.
+
+(11:20 - 12:01)
+Learning some core national curriculum together can be beneficial, because by doing so can save some costs for schools. For example, the curriculum to teach knowledge about sanitation should be listed in the core curriculum, and if students take the courses together, the teacher only have to teach once, thus the school doesn't have to pay for the teacher so many times to teach in each classes.
+
+(12:01 - 12:15)
+However, all students should not be required to study the same curriculum so much time, because students in different fields should require different skills. If the required but unnecessary curriculum takes too much time for most of the students, it can be a problem. For example, if a senior student who majors in math, he not only have to deal with the subject Advanced Calculus, which is a very hard course to pass for most of the students, but also have to spend time to study art curriculum, the required, unnecessary, but time cousuming course. It is painful for most of the students. Also, if the unnecessary curriculum occupies too much time, it is likely that the students have to spend more time in the future to horn their skills in their job carrier.
+
+(12:15 - 12:20)
+Nevertheless, the few talented students should be considered to learn some specialized, professional courses too. For example, if some of the students in Taiwan are talented in music, it is likely to be neglected because schools can provide meager resources to those students. The goverment should establish some spcialize schools to take care of these few talented ones to provide more professional course to them.
+
+(12:20 - 12:22)
+In conclusion, some core curriculum should be provided to most of the students, and the specialized courses should be provided to the few but talented students too.
+
+(351 words in 73 mins [11:09 - 12:22])
+
+
+
+
+
+
+
+
+
+=====================================================================
+
+--
+version 1 - 感覺不行：因為我寫成多數「情況」，不是多數「人」-> 這樣有個風險是，可能會造成立場搖擺不定
+
+想點 10:42 - 10:04
+
+優點
+1. 基礎知識 通識課大家一起上 節省成本 e.g. 衛生觀念
+2. 國防很重要，但在台灣只有男生要當義務役，所以少數配套：男生要上 女生不用被要求
+3. 原住民少數配套： 要了解自己的文化，不能失傳
+
+缺點
+1. 專業知識會越來越難，不同背景的學生如果沒有基礎知識，根本聽不懂
+2. 如果太多時間上通識課，在學校就比較少時間去專精自己的領域，可能工作後要花更多時間自己去摸索
+3. 
+
+--
+
+(10:58 - 10:)
+
+I disagree the statement that a nation should require all of its students to study the same national curriculum until they enter college. In most cases, students in different fields should require different skills.
+
+
+
+
+
+

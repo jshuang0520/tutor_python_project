@@ -1,0 +1,21 @@
+root                      [hint]
+"acerb、acid、acri、acu"  尖、酸          [hint]  acid         酸
+act                       行動            [hint]  activate     啟動
+aer                       空氣            [hint]  air          空氣
+"ag、ig                   to              act"    做、動       [hint]          agile  靈敏的  (AGI)
+agog                      引導            [hint]  pedagogue    學究、老師
+agon                      掙扎、打鬥      [hint]  agony        痛苦
+agr                       田地、農業      [hint]  agriculture  農業
+al                        成長            [hint]  coalition    同盟、聯合
+ail                       生病            [hint]  ail          病
+alg                       痛              [hint]  nostalgia    思鄉病
+alien                     疏遠            [hint]  alien        外星人
+alt                       高              [hint]  altitude     高度
+"alter、altr"             改變、其他      [hint]  alter        改變
+am                        愛、情愛        [hint]  amiable      和藹的、親切的
+"amble、ambul"            行走、走來走去  [hint]  coalition    救護車
+ampl                      大              [hint]  ample        充足的、豐富的
+ances                     原始的          [hint]  ancestor     祖先、祖宗
+ang                       痛苦            [hint]  angry        生氣的、發怒的
+angl                      角              [hint]  angle        角、角度
+anim                      生命、精神      [hint]  animal       動物

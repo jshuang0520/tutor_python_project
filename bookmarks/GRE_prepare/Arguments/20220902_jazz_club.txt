@@ -1,0 +1,94 @@
+
+
+https://www.testpreppractice.net/gre-pages/gre-argument-essay/gre-argument-essay-group-9/gre-argument-essay-87/
+
+GRE Argument Essay 87
+The following was written as a part of an application for a small business loan by a group of developers in the city of Monroe.
+
+“A jazz music club in Monroe would be a tremendously profitable enterprise. Currently, the nearest jazz club is 65 miles away; thus, our proposed club, the C Note, would have the local market all to itself. Plus, jazz is extremely popular in Monroe: over 100,000 people attended Monroe’s jazz festival last summer, several well-known jazz musicians live in Monroe, and the highest-rated radio program in Monroe is ‘Jazz Nightly,’ which airs every weeknight. Finally, a nationwide study indicates that the typical jazz fan spends close to $1,000 per year on jazz entertainment. It is clear that the C Note cannot help but make money.”
+
+
+
+
+
+
+看題目 11:22 - 11:24 - 11: (整理題目線索)
+--
+question / evidence / [assumption] / alternative explanation 題
+
+
+整理題目線索
+
+
+想點 11:24 - 11: (只想到兩點)
+
+# ------------------
+#
+# 他因 可比性
+#
+# ------------------
+1. 他因： Festival 有利潤 不代表 當地 club 會賺錢
+e.g. 1. jazz festival 邀請 知名藝人表演，大家為了這個才去
+e.g. 2. 平常 club 的成員脾氣不好，容易衝突，所以沒有很多人願意參加 club，不賺錢
+
+# ------------------
+#
+# 問卷 / 統計數字
+#
+# ------------------
+2. 基數
+e.g. 
+
+3. 樣本統計時間 一個月太少
+e.g. 
+
+4. 樣本隨機性
+e.g. 抽附近好訪問的 抽願意回答的 有誘因才填問卷的 e.g.辦活動送贈品才受訪 -> 不隨機是否有偏誤
+
+5. lower price 有多低？實際數字？
+e.g. 
+
+====================================
+
+--
+
+
+(10:  - 10: )
+
+( words)
+
+
+(10:  - 10: )
+
+( words)
+
+
+(10:  - 10: )
+
+( words)
+
+
+(10:  - 10: )
+
+( words)
+
+
+(10:  - 10: )
+
+( words)
+
+
+--
+
++ =  words
+in  mins (10:30 - 11:00)
+
+
+--
+reference
+
+https://gmatclub.com/forum/during-the-past-year-quiot-manufacturing-had-30-percent-more-on-the-391880.html
+
+https://www.testbig.com/gmatgre-argument-task-essays/according-recent-report-cheating-among-college-and-university-53
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/078.html

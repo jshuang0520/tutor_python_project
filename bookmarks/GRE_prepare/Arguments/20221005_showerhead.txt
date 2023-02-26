@@ -1,0 +1,112 @@
+
+https://www.testbig.com/gmatgre-argument-task-essays/one-month-ago-all-showerheads-first-three-buildings-sunnyside-towers-7
+
+Essay topics:
+The following appeared in a letter from the owner of the Sunnyside Towers apartment complex to its manager.
+
+One month ago, all the showerheads in the first three buildings of the Sunnyside Towers complex were modified to restrict maximum water flow to one-third of what it used to be. Although actual readings of water usage before and after the adjustment are not yet available, the change will obviously result in a considerable savings for Sunnyside Corporation, since the corporation must pay for water each month. Except for a few complaints about low water pressure, no problems with showers have been reported since the adjustment. Clearly, modifying showerheads to restrict water flow throughout all twelve buildings in the Sunnyside Towers complex will increase our profits further."
+
+Write a response in which you examine the stated and/or unstated assumptions of the argument. Be sure to explain how the argument depends on these assumptions and what the implications are for the argument if the assumptions prove unwarranted.
+
+
+看題目 10:44 - 10:45 - 10:49 (整理題目線索)
+--
+question / evidence / [assumption] / alternative explanation 題
+
+
+整理題目線索
+
+
+想點 11: - 11: (只想到兩點)
+
+# ------------------
+#
+# 他因 可比性
+#
+# ------------------
+1. 他因 可比性
+e.g. 地點 文化 溫度 雨量 環境 污染
+
+可比性：前三棟住戶 對 所有十二棟住戶
+用水習慣不同
+後面幾棟住戶比較多人有車 而且會常常大量用水來洗車
+水壓減小造成污垢更難沖掉，反而沖更久的水，造成總用水量更多
+
+
+他因：住戶不一定因為水壓減少而減少用水
+反而可能用更多
+例如，因為水壓減少，造成等待時間變久，許多住戶反而會事先把水儲存起來再來使用
+當住戶要洗廁所，原本只需要打開蓮蓬頭沖一下，後來變成為了方便，一次把儲存在浴缸裡面的水用完
+
+他因：no problems with showers have been reported since the adjustment
+申訴管道？
+以前可以打電話反映，網路反應，但現在不行了
+太忙所以沒申訴？
+最近很多住戶換新工作
+
+
+樣本統計 基數太少、 時間 一個月太少：
+如果剛好在統計的時間是用水比較節省的時候，例如冬季，相對於夏季炎熱，許多家庭會大量用水來玩水，在家裡的泳池游泳，那統計就不準確，時間應該拉長到統計一整年
+
+
+# ------------------
+#
+# 問卷 / 統計數字
+#
+# ------------------
+2. 基數
+e.g. 
+
+3. 樣本統計時間 一個月太少
+e.g. 如果有突發狀況，例如工業污染 造成水源細菌 髒 ，進而造成上個月 Wintervale 害蟲大幅降低，並不是 Buzzoff Pest Control Company 有用
+
+4. 樣本隨機性
+e.g. 抽附近好訪問的 抽願意回答的 有誘因才填問卷的 e.g.辦活動送贈品才受訪 -> 不隨機是否有偏誤
+
+5. lower price 有多低？實際數字？
+e.g. 如果 Fly-Away 比 Buzzoff 便宜 $100,000 in cost，那仍然要換掉他嗎？
+
+====================================
+
+--
+
+
+(10:52  - 10:55 )
+The memo claims that modifying showerheads to restrict water flow throughout all twelve buildings in the Sunnyside Towers complex will increase the profits further. However, several assumptions in the argument need to be addressed.
+(34 words)
+
+
+(10:36  - 10:47 )
+The author claims that according to the experience of water restriction for the first three buildings during last month, when the rule is applied to all of the twelve buildings, it will also increase the profits too. However, the assumption of the same water usage habbits of all the residents is baseless. When the maximum water flow is restricted to one-third to all the buildings, the water usage may increase. For example, residents in the rest of nine buildings may have more cars than the first three buildings, and they tend to wash their cars at least once a week. The smaller water flow can make it more difficult to clean the dirts on the cars, and it leads to more water usage eventually.
+(124 words)
+
+
+(10:47  - 10:59 )
+The memo also claims that except for a few complaints about low water pressure, no problems with showers have been reported since the adjustment. Nevertheless, the assumption here is also unfounded. It is totally possible that there used to be lots of methods to complain, such as making phone calls to the office, or write some comments on the website to report issues. But for now, these methods are not available. Also, it is possible that the residents are too busy to complain recently. For example, many residents are busy finding new jobs during the recession, so they have no time to complain such trivial things.
+(106 words)
+
+
+(10:59  - 11:11 )
+The author also claims that there were only a few complaints during last month. However, the assumption of there will be not that much complaints in the future is untenable. For example, if last month was January, which is obviously not in the summer time, a season to use lots of water to play games and have some fun, then the water usage can be relatively small. And due to this small usage in water, the lesser issues emerge. In the statistical perspective, they should sample for at least one year to exclude the seasonal effects.
+(96 words)
+
+
+(11:11  - 11:12 )
+The author should deal with the mentioned above to make his claims more convincing.
+(14 words)
+
+
+--
+
+34+124+106+96+14 = 374 words
+in 50 mins (10:30 - 11:00)
+
+
+--
+reference
+
+https://gmatclub.com/forum/during-the-past-year-quiot-manufacturing-had-30-percent-more-on-the-391880.html
+
+https://www.testbig.com/gmatgre-argument-task-essays/according-recent-report-cheating-among-college-and-university-53
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/078.html

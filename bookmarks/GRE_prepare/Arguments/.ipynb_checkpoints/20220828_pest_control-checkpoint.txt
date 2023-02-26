@@ -1,0 +1,80 @@
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/078.html
+
+Argument 第 78 題
+
+The following appeared in a memo from the vice president of a food distribution company with food storage warehouses in several cities.
+
+"Recently, we signed a contract with the Fly-Away Pest Control Company to provide pest control services at our fast-food warehouse in Palm City, but last month we discovered that over $20,000 worth of food there had been destroyed by pest damage. Meanwhile, the Buzzoff Pest Control Company, which we have used for many years, continued to service our warehouse in Wintervale, and last month only $10,000 worth of the food stored there had been destroyed by pest damage. Even though the price charged by Fly-Away is considerably lower, our best means of saving money is to return to Buzzoff for all our pest control services."
+
+Write a response in which you examine the stated and/or unstated assumptionns of the argument. Be sure to explain how the argument depends on these assumptions and what the immplications are for the argument if the assumptions prove unwarranted.
+
+
+
+
+看題目 11:38 - 11:39 - 11:41 (整理題目線索)
+--
+assumption 題
+
+company
+Fly-Away in Palm City, over $20,000 food destroyed by pest 
+Buzzoff in Wintervale, only $10,000 food destroyed by pest 
+
+想點 11:41 - 11:47 (只想到兩點)
+
+1. Palm, Wintervale 不同地區可比性
+e.g. 溫度條件 雨量 環境是否適合害蟲生長
+
+
+2. 基數
+assumption 建立在 兩者商品價值相等的條件 但沒講清楚
+e.g. Palm 損失價值 $20,000 可能是高單價的商品，一包高級的米是另一個倉庫的十倍價錢，但是損失的 量 很少
+
+
+====================================
+未想到的、看上課講義的點
+
+3. 樣本統計一個月太少
+e.g. 如果有突發狀況，例如工業污染 造成水源細菌 髒 ，進而造成上個月 Wintervale 害蟲大幅降低，並不是 Buzzoff Pest Control Company 有用
+
+4. Fly-Away lower price 有多低？實際數字？
+e.g. 如果 Fly-Away 比 Buzzoff 便宜 $100,000 in cost，那仍然要換掉他嗎？
+
+====================================
+
+--
+
+
+(11:47 - 11:48)
+The author suggests that choosing to cooperate with Buzzoff Pest Control Company is a better choice. However, several assumptions in the argument need to be addressed.
+(26 words)
+
+
+(11:48 - 12:04)
+The author claims that they found over $20,000 worth of food stored there that had been destroyed by pest damage in the fast-food warehouse in Palm City, while they only lost $10,000 in the warehouse in Wintervale. However, the assumption that the services provided by the Fly-Away Pest Control Company is worse than the Buzzoff Pest Control Company is unfounded. It is possible that the food stored in Palm City are more valuable than the food stored in Wintervale. For example, if rice are both stored in those two warehouses, and the rice stored in Palm City is $100 per pack while the other only worth $1 per pack, then the food lost in Palm City is much lower in quantity than the lost in Wintervale. So the service provided by Fly-Away Pest Control Company might be more useful.
+(138 words)
+
+
+(12:04 - 12:16)
+Moreover, an assumption that the conditions in both sites are comparable is also unfounded. If it rains much more in the Palm City than in Wintervale, it is probably that it provides a more suitable environment for the pests to profligate. For example, if there were 2 million pests nearby their warehouse in the Palm City during that month, while there were only ten thousand pests nearby their warehouse in Wintervale. And the lost $20,000 worth of food in Palm City seems not as serious as we thought. Or even we can say the services provided by the Fly-Away Pest Control Company is better than the Buzzoff Pest Control Company to prevent such huge amount of pests to destroy all the food stored in the Palm City.
+(109 words)
+
+
+(12:29 - 12:45)
+Also, the author claims that even if the cost of Fly-Away is lower, they tend to choose Buzzoff for their pest control services to save more money. However, it may be possible that the policy can lead to greater costs, thus there will be no profits. For example, if the services provided by Fly-Away costs $100,000 per month and the solutions provided by Buzzoff costs $200,000 per month, a $100,000 cheaper in cost, compared their $20,000 lost in the Palm City last month, it would be unwise to choose Buzzoff as their solution.
+(91 words)
+
+
+(12:16 - 12:17)
+To make the argument more convincing, the author needs to deal with the assumptions mentioned above.
+(16 words)
+
+
+--
+
+26+138+109+16 = 289 words
+in 39 mins (11:38 - 12:17)
+
+
+26+138+109+91+16 = 380 words
+in 65 mins (11:38 - 12:17 ; 12:29 - 12:45)

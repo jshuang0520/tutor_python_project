@@ -1,0 +1,64 @@
+A nation should require all its students to study the same national curriculum until they enter college.
+
+看題目 10:20 - 10:21
+
+
+
+想點 10:21 - 10:33
+
+錢
+時間
+健康
+
+
+先想立場：要支持這段話，還是不支持，選一邊站
+- if 站到支持那邊
+- if 站到不支持那邊
+
+
+[選一邊站：不支持]
+
+- 
+論點中心：喜歡的領域不同
+支持 1. 不支持的好處：花更多時間在自己想做的事情 
+e.g. 如果學校沒有規定每週一早上都要去參加不喜歡的課，我就能把時間拿來精進程式，有更多時間開發 side project
+反對 1. 支持的壞處：如果被強迫參加沒有興趣的課程，很可能流於形式
+e.g. 如果強迫所有人要去上很難的數學課 高等微積分 都在證明理論，平常生活中也不會用到這些知識 很多人只是出現在教室 但都在睡覺 沒有認真學習
+
+
+論點中心：時間 行程
+支持 2. 不支持的好處：讓大家更自由安排行程 - 要找到全校共同可以上課的時間不可行，勢必會犧牲到一些人的時間，因此既定行程會被打亂
+e.g. 例如禮拜一早上很多人都有教會活動，但學校規定要參加共同課程 就衝突 只能取捨一邊
+反對 2. 
+e.g. 
+
+--
+
+
+(10:33 - 10:37)
+I personally disagree with the statement that a nation should require all its students to study the same national curriculum until they enter college because it is hard to ask everyone to study the same course so hard, in the meanwhile, this policy can also disturb some people's original schedule.
+(51 words)
+
+
+(10:37 - 10:42)
+First of all, everyone likes different fields, so there is no need to ask all of the students to attend the same courses. If attending the same national curriculum is not required, students can spend more time to do what they really get interested. For example, if students don't have to attend the same Chinese course every Monday morning, students who like to program can learn more about algorithms or even develop their side projects.
+(76 words)
+
+
+(10:42 - 10:44)
+However, if all the students are required to attend the same Chinese course every Monday morning, most of the students who are not interested in it may just show up and sleep in the class. That is totally not helpful for the students to learn more knowledge.
+(47 words)
+
+
+(10:44 - 10:49)
+Second, it is too hard to find a free time that everyone is available. Arranging a same national curriculum can disturb some people's original schedule. For example, if most of the students have to go to the church every Monday, but the national curriculum is also scheduled on the same time, unfortunately. Those people would have to decide where to go because they can't show up in two places in the same time.
+(75 words)
+
+
+(10:49 - 10:49)
+To sump up, the mentioned above is why I personally disagree with the statement.
+(14 words)
+
+
+51+76+47+75+14 = 263
+in 29 mins (10:20 - 10:49)

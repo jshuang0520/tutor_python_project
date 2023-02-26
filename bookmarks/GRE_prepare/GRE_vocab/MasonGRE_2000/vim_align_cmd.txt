@@ -1,0 +1,8 @@
+vim enough space to align stack exchange
+https://superuser.com/questions/771140/how-to-insert-enough-spaces-to-align-text-to-column-number-using-vim
+
+
+vim text alignment
+https://stackoverflow.com/questions/8964953/align-text-on-an-equals-sign-in-vim
+(in vim mode) -> GNU column command (Linux etc)
+:% ! column -t

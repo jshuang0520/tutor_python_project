@@ -1,0 +1,58 @@
+20220821 argument practice
+
+
+https://huanlinberkeley.gitbooks.io/gre-aw-pool/content/arg_pool/008.html
+
+
+https://www.testbig.com/gmatgre-argument-task-essays/president-grove-college-has-recommended-college-abandon-its-century-2
+
+Essay topics:
+
+The president of Grove College has recommended that the college abandon its century-old tradition of all-female education and begin admitting men. Pointing to other all-female colleges that experienced an increase in applications after adopting coeducation, the president argues that coeducation would lead to a significant increase in applications and enrollment. However, the director of the alumnae association opposes the plan. Arguing that all-female education is essential to the very identity of the college, the director cites annual surveys of incoming students in which these students say that the school's all-female status was the primary reason they selected Grove. The director also points to a survey of Grove alumnae in which a majority of respondents strongly favored keeping the college all female.
+
+
+10:18 start ~ [11:19] end
+
+看題目 10:18 - 10:22
+--
+question 題
+
+想點 10:22 - 10:32
+
+1. 可比性1？ 其他地區女校轉型收男生有賺錢 但這區呢？ e.g. 這個學區原本專為女性設計，附近比較多女性商品，可以逛街；男生偏好的球場，比較少，
+也許課後活動會影響男生的就讀意願
+
+2. 可比性2? 這個學校連教職員都只收女生，廁所有只有女廁，男生來了會不方便，學校需要另外處理增加男廁
+
+3. 大幅增加註冊率？ 如果收男生，會不會造成女生入學意願降得更低，進而造成整體的註冊率下滑？
+我們需要問卷調查
+
+--
+
+(10:32 - 10:35)
+The president of Grove College claims that by abandoning its century-old tradition of all-female education and admitting men, the coeducation would lead to a significant increase in applications and enrollment. However, there are some questions need to be answered.
+(41 words)
+
+
+(10:35 - 10:48)
+The argument claims that other all-female colleges that experienced an increase in applications after adopting coeducation, and that coeducation would lead to a significant increase in applications and enrollment for Grove College too. However, this may not be true. For example, if the area nearby this college are all designed for girls to go shopping due to its all-female education character, the boys may get bored after school, so they tend to choose other colleges. Also, it is likely that there are few playgrounds and basketball courts in the school and its nearby region. If the boys want to do some exercise, they need to go to a gym far away from school, and this kind of issue may lower their willingness to enroll in this school.
+(129 words)
+
+
+(10:48 - 11:08)
+The argument also claims that coeducation would lead to a significant increase in applications and enrollment. If this is true, however, we need to know the process how he makes this conclusion. First of all, we need to know the sample size. If the president of Grove College make this conclusion by only observing 2 schools, in the perspective of the Satistics, it would be too arbitrary to do so. We must collect more samples, like at least 30 samples (schools), to get this statistic more convincing. Second, we need to know "how significant" it is. Maybe the the base numbers of other schools and this school are very different. For example, if the other college has only 1,000 students originally and there are 2,000 students after the coeducation, the enrollment rate would be an suprisingly 100% increase. But if there were 10,000 studnets in the Grove College, and the number of students to enroll increases after the coeducation policy is also 1,000. The enrollment rate will be a limited number.
+(164 words)
+
+
+(11:08 - 11:17)
+Moreover, if the boys will be willing to enroll in this college, and the enrollment rate will seemingly increase under the circustance that other conditions remain the same. However, it is likely that some conditions will be changed. For example, if the boys can enter this college, parents of the girls may think the college is not as safe as it was when there were only girls at school. The parents may ask their daughters to enroll in other schools, so the enrollment rate may not be higher or even lower that before. So we need to carefully conduct a survey to know this answer.
+(105 words)
+
+
+(11:17 - 11:19)
+The above questions need to be answered to get the author's claim more convincing.
+(15 words)
+
+
+total: 454 words
+time: 10:18 start ~ [11:19] end -> 61 mins

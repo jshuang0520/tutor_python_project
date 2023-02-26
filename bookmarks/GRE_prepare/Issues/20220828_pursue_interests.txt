@@ -1,0 +1,76 @@
+College students should be encourged to pursue subjects that interest them 
+rather than the courses that seem most likely to lead to jobs.
+看題目 10:18 - 10:19
+
+
+
+想點 10:19 - 10:37
+
+錢
+時間
+健康
+
+
+先想立場：要支持這段話，還是不支持，選一邊站
+- if 站到支持那邊
+- if 站到不支持那邊
+
+
+[選一邊站：支持]
+
+- 
+論點中心：心情
+支持 1. 支持的好處：做得開心，就能夠投入 表現得更好 
+e.g. 喜歡電腦程式 我寫程式都會很投入 忘記時間；而且我表現得比同班同學來得好，別人要花一個月的時間學起來的東西，我花半個月就完成了
+反對 1. 不支持的壞處：做得不開心 很容易逃避上課
+e.g. 我曾經嘗試學自己學不喜歡的管理課，對工作有幫助的課，但是跟大家合作要表現外向的樣子 很累 做不好 不開心
+
+
+論點中心：健康
+支持 2. 學自己想要的 會保持精神和好心情 有良性循環 保持健康
+e.g. 當我在學習程式課程，我能做到早上七點起床學習 學習更多就會更開心 直到晚上十二點前會睡覺 不會熬夜 身體健康
+反對 2. 學自己不想要的工作相關課程 會壓力大 身體不健康
+e.g. 當我在學習數學課，我壓力很大，跟不上進步，甚至會利用熬夜來趕進度，造成身體不健康
+
+--
+
+
+(10:37 - 10:39)
+The statement claims that college students should be encourged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs. In my opinion, I agree with the statement. Because it can be beneficial to one's mood or even health.
+(47 words)
+
+
+(10:39 - 10:46)
+First of all, taking courses that interest you can make you happy. If you do something that you like, it is more likely that you can be more focus on that thing, and thus do better than others. This virtue circle can make you be in a good mood all the way. For example, I like programming courses. When I write program, I can be very focus on that thing, be in a good mood, and I learn faster than my classmates. I can finish a project within two weeks while my classmates have to do it for a month. And the result makes me more confident, thus, be in a good mood.
+(113 words)
+
+
+(10:46 - 10:50)
+However, if we force ourselves to learn something that we are not interested at all, we can feel painful and thus be in a bad mood. For example, I tried to learn coureses about people management, which is beneficial to our job. But I found it tiring because I have to force myself to be outgoing all the time. That makes me feel bad and I was often in a bad mood during that time.
+(75 words)
+
+
+(10:51 - 11:04)
+Second, another benefit to pursue courses that interest us is that we can stay healthy. If we learn what we really care about, we tend to know more knowledge all the way. So we tend to keep us healthy and being energetic. For example, when I learn programming courses, I am able to get up at 7 a.m. in the morning and go to be before 11 p.m. and I never stay up late during that time. I am so eager to stay energetic and healthy to learn as much as I can. This virtue circle is really beneficial to my health condition.
+(103 words)
+
+
+(11:04 - 11:16)
+However, if we learn the courses that we are not interested in but beneficial to our job, we may feel stressful and thus in a bad health condition. For example, when I study math courses, which is a required skill for data scientists in our job career, I often feel stressful. Whenever I can't understand the theorms, I have to spend more time working on it. I often stay up late to study math, and that makes me enervate. This vicious circle also leads to a bad health condition for me too.
+(93 words)
+
+
+(10:50 - 10:51)
+To sum up, the mentioned above are the reason why I agree with the statement that college students should be encourged to pursue subjects that interest them rather than the courses that seem most likely to lead to jobs.
+(39 words)
+
+
+
+--
+
+47+113+75+39 = 274 words
+in 32 mins (10:19 - 10:51)
+
+
+47+113+75+103+93+39 = 470 words
+in 57 mins (10:19 - 11:16)
